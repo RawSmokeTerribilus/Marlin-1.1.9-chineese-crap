@@ -1,4 +1,4 @@
 <img>
 
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/3D_printer_ascii_art.svg/1200px-3D_printer_ascii_art.svg.png](https://pic.onlinewebfonts.com/svg/img_52572.png)" alt="3D Printer ASCII Art">
+<img src="https://cdn.shopify.com/s/files/1/2525/8632/products/91IYWv3iHKL._SL1500_1024x1024@2x.jpg?v=1527381787" alt="3D Printer ASCII Art">
