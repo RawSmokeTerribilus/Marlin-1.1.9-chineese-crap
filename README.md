@@ -26,10 +26,10 @@
 |_________\__________/___|_________|
        </pre>
     <p>
-      Welcome to my awesome 3D printer! It's running the latest and greatest version of Marlin, so you know it's the best. This printer can create anything I can imagine, from toys to prototypes to replacement parts for household items.
+      Welcome to my awesome 3D printer! It's running the oldest and greatest version of Marlin, so you know it's the best. This printer can create anything I can imagine, from toys to prototypes to replacement parts for household items.
     </p>
     <p>
-      And with Marlin's HTTP magic, I can control this bad boy from anywhere in the world. It's like having my own personal printing factory in my pocket. Thanks, Marlin!
+      And with Marlin's magic, I can control this bad boy from anywhere in the world. It's like having my own personal printing factory in my pocket. Thanks, Marlin!
     </p>
   </body>
 </html>
